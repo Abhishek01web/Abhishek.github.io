@@ -1,0 +1,327 @@
+@media only screen and (max-width:500px) {
+    /* menu */
+    .menu .menu_l span {
+        margin-left: 20px;
+    }
+    .menu .menu_l span:nth-child(1){
+        width: 20%;
+     }
+     .menu .menu_l span:nth-child(2){
+       width: 25%;
+     }
+     .menu .menu_l span:nth-child(3){
+       width: 15%;
+     }
+     .menu .menu_r img {
+      margin-left: 95px;
+      margin-top:10px;
+     }
+     .home .menu_i {
+         height: 60vh;
+         width: 95%;
+         padding-bottom: 10px;
+    }
+    .menu_i .items a {
+        margin: 5px;
+    }
+    /* home  */
+    .home .home_main .home_m_03 p {
+      width: 90%;
+    }
+    .home .home_main .home_m_01 h3 {
+      margin-left: 40px;
+    }
+    
+    /* about */
+    .about {
+      height: 100%;
+    }
+    .about .about_main {
+      flex-direction: column;
+    }
+    .about .about_main_01 {
+      width: 100%;
+    }
+    .about_main_02 {
+      width: 100%;
+    }
+    .about_main .about_main_02 a {
+      font-size: 18px;
+      padding: 5px;
+    }
+    /* Services */
+    .Services {
+      height: 100%;
+    }
+    .Services .services_main {
+      margin-top: 20px;
+    }
+    .services_main .wrapper .carousel_01 .card  {
+      height: 360px;
+    }
+    .services_main .wrapper .carousel_01 .card h2 {
+      margin: 10px;
+    }
+    .services_main .wrapper .carousel_01 .card p {
+      margin: 10px;
+    }
+    .services_main .wrapper .owl-dots{
+      margin-top: 10px;
+      margin-bottom: 20px;
+    }
+    /* project */
+    .project {
+      height: 100%;
+    }
+    .project .project_main {
+      margin-top: 20px;
+    }
+    .project_main .wrapper .owl-dots{
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+    /* skill */
+    .skill {
+      height: 100%;
+    }
+    .skill .skill_main {
+      flex-direction: column;
+      margin: 20px;
+    }
+    .skill .skill_text,.skill .skill_list {
+      width: 90%;
+      margin: 10px;
+    }
+    .skill .skill_list {
+      width: 90%;
+      margin: 10px;
+      margin-top: 40px;
+    }
+    .skill .skill_text h2 {
+      font-size: 22px;
+      font-weight: 600;
+    }
+    .skill .skill_text a {
+      position: relative;
+      top: 20px;
+      font-size: 18px;
+      padding: 5px;
+    }
+    .skill .skill_main .skill_list .info {
+      width: 100%;
+    }
+    .skill .skill_main .skill_list .bars .line {
+      width: 100%;
+    }
+    /* contact  */
+    .contact {
+      height: 100%;
+    }
+    .contact .contact_main  {
+      flex-direction: column;
+      margin: 10px;
+      position: relative;
+    }
+    .contact .contact_main .contact_basic , .contact .contact_main .contact_form {
+      width: 90%;
+      margin: 0px;
+      margin-top: 20px;
+    }
+    .contact_main .contact_basic{
+      margin: 26px;
+    }
+    .contact_basic h2 {
+      font-size: 22px;
+      font-weight: 600;
+    }
+    .contact_form form input:nth-child(5) {
+      width: 40%;
+    }
+    .contact_form #submit_mess {
+      font-size: 18px;
+    }
+    /* footer */
+    .foter {
+      height: 60px;
+    }
+    .foter a {
+      margin: 5px;
+      padding: 7.5px;
+    }
+    .foter a i {
+      font-size: 18px;
+    }
+  }
+  @media only screen and (max-width:900px) {
+       /* menu */
+       .menu .menu_l span {
+        margin-left: 20px;
+    }
+    .menu .menu_l span:nth-child(1){
+        width: 20%;
+     }
+     .menu .menu_l span:nth-child(2){
+       width: 25%;
+     }
+     .menu .menu_l span:nth-child(3){
+       width: 15%;
+     }
+     .menu .menu_r img {
+         margin-right: 20px;
+     }
+     .home .menu_i {
+         width: 95%;
+         padding-bottom: 10px;
+    }
+    .menu_i .items a {
+        margin: 5px;
+    }
+    /* home  */
+    .home .home_main .home_m_03 p {
+      width: 90%;
+    }
+    .home .home_main .home_m_01 h3 {
+      margin-left: 40px;
+    }
+    
+    /* about */
+    .about {
+      height: 100%;
+    }
+    .about .about_main {
+      flex-direction: column;
+    }
+    .about .about_main_01 {
+      width: 100%;
+    }
+    .about_main_02 {
+      width: 100%;
+    }
+    .about_main .about_main_02 a {
+      font-size: 18px;
+      padding: 5px;
+    }
+    /* Services */
+    .Services {
+      height: 100%;
+    }
+    .Services .services_main {
+      margin-top: 20px;
+    }
+    .services_main .wrapper .carousel_01 .card  {
+      height: 360px;
+    }
+    .services_main .wrapper .carousel_01 .card h2 {
+      margin: 10px;
+    }
+    .services_main .wrapper .carousel_01 .card p {
+      margin: 10px;
+    }
+    .services_main .wrapper .owl-dots{
+      margin-top: 10px;
+      margin-bottom: 20px;
+    }
+    /* project */
+    .project {
+      height: 100%;
+    }
+    .project .project_main {
+      margin-top: 20px;
+    }
+    .project_main .wrapper .owl-dots{
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+    /* skill */
+    .skill {
+      height: 100%;
+    }
+    .skill .skill_main {
+      flex-direction: column;
+      margin: 20px;
+    }
+    .skill .skill_text,.skill .skill_list {
+      width: 90%;
+      margin: 10px;
+    }
+    .skill .skill_list {
+      width: 90%;
+      margin: 10px;
+      margin-top: 40px;
+    }
+    .skill .skill_text h2 {
+      font-size: 22px;
+      font-weight: 600;
+    }
+    .skill .skill_text a {
+      position: relative;
+      top: 20px;
+      font-size: 18px;
+      padding: 5px;
+    }
+    .skill .skill_main .skill_list .info {
+      width: 100%;
+    }
+    .skill .skill_main .skill_list .bars .line {
+      width: 100%;
+    }
+    /* contact  */
+    .contact {
+      height: 100%;
+    }
+    .contact .contact_main  {
+      flex-direction: column;
+      margin: 10px;
+      position: relative;
+    }
+    .contact .contact_main .contact_basic , .contact .contact_main .contact_form {
+      width: 90%;
+      margin: 0px;
+      margin-top: 20px;
+    }
+    .contact_main .contact_basic{
+      margin: 26px;
+    }
+    .contact_basic h2 {
+      font-size: 22px;
+      font-weight: 600;
+    }
+    .contact_form form input:nth-child(5) {
+      width: 40%;
+    }
+    /* footer */
+    .foter {
+      height: 60px;
+    }
+    .foter a {
+      margin: 5px;
+      padding: 7.5px;
+    }
+    .foter a i {
+      font-size: 18px;
+    }
+  }
+  @media only screen and (max-width:1000px) {
+    .menu .menu_l span {
+        margin-left: 20px;
+    }
+    .menu .menu_l span:nth-child(1){
+        width: 20%;
+     }
+     .menu .menu_l span:nth-child(2){
+       width: 25%;
+     }
+     .menu .menu_l span:nth-child(3){
+       width: 15%;
+     }
+     .menu .menu_r img {
+         margin-right: 20px;
+     }
+     .home .menu_i {
+         width: 95%;
+         padding-bottom: 10px;
+    }
+    .menu_i .items a {
+        margin: 5px;
+    }
+  }
